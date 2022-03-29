@@ -17,7 +17,6 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'sunlightlg'
         GITHUB_ACCOUNT = 'sunlight-lg'
         APP_NAME = 'devops-java-sample'
-        SONAR_CREDENTIAL = 'sonar-qube'
     }
 
     stages {
